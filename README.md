@@ -1,5 +1,5 @@
 # SimplePuzzleGame
-![PuzzleGame](http://i.imgur.com/KWdG8Nv.png)
+					![PuzzleGame](http://i.imgur.com/KWdG8Nv.png)<return>
 This is a simple puzzle game that was got idea from 0hh1(https://github.com/Q42/0hh1) and written on my own in C#.NET 
 
 # How to Play
